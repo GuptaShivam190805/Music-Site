@@ -1,9 +1,10 @@
 "use client";
 import React, { ReactNode, AnchorHTMLAttributes } from "react";
 import { motion } from "framer-motion"; // ✅ Corrected import
+import { Transition } from "framer-motion";
 
 // Animation transition object
-const transition = {
+const transition : Transition = {
   type: "spring",
   mass: 0.5,
   damping: 11.5,
