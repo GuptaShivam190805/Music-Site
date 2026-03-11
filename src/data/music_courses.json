@@ -1,0 +1,104 @@
+{
+  "courses": [
+    {
+      "id": 1,
+      "title": "Indian Classical Vocal - Beginner",
+      "slug": "indian-classical-vocal-beginner",
+      "description": "A soulful journey into Hindustani classical singing for absolute beginners.",
+      "price": 2999,
+      "instructor": "Ritika Sharma",
+      "isFeatured": true,
+      "image": "/images/vocal-beginner.jpg"
+    },
+    {
+      "id": 2,
+      "title": "Guitar for All Ages",
+      "slug": "guitar-for-all-ages",
+      "description": "Learn the basics of acoustic and electric guitar, designed for all age groups.",
+      "price": 3499,
+      "instructor": "Aditya Mehra",
+      "isFeatured": true,
+      "image": "/images/guitar.jpg"
+    },
+    {
+      "id": 3,
+      "title": "Tabla Masterclass",
+      "slug": "tabla-masterclass",
+      "description": "An advanced tabla training program for rhythmic mastery.",
+      "price": 4999,
+      "instructor": "Ustad Imran Ali",
+      "isFeatured": false,
+      "image": "/images/tabla.jpg"
+    },
+    {
+      "id": 4,
+      "title": "Keyboard Basics for Kids",
+      "slug": "keyboard-basics-kids",
+      "description": "Fun, engaging keyboard lessons specially designed for children.",
+      "price": 1999,
+      "instructor": "Shruti Desai",
+      "isFeatured": false,
+      "image": "/images/keyboard-kids.jpg"
+    },
+    {
+      "id": 5,
+      "title": "Bollywood Singing Secrets",
+      "slug": "bollywood-singing-secrets",
+      "description": "Unveil the techniques behind popular Bollywood songs with live practice.",
+      "price": 3999,
+      "instructor": "Ritika Sharma",
+      "isFeatured": true,
+      "image": "/images/bollywood.jpg"
+    },
+    {
+      "id": 6,
+      "title": "Fingerstyle Acoustic Guitar",
+      "slug": "fingerstyle-acoustic-guitar",
+      "description": "Master fingerstyle techniques and become a confident solo guitarist.",
+      "price": 4299,
+      "instructor": "Aditya Mehra",
+      "isFeatured": false,
+      "image": "/images/fingerstyle.jpg"
+    },
+    {
+      "id": 7,
+      "title": "Digital Music Production",
+      "slug": "digital-music-production",
+      "description": "Learn to produce music using modern tools like Ableton and FL Studio.",
+      "price": 2999,
+      "instructor": "Rohan Dey",
+      "isFeatured": true,
+      "image": "/images/production.jpg"
+    },
+    {
+      "id": 8,
+      "title": "Dholak & Percussion",
+      "slug": "dholak-percussion",
+      "description": "Get into the roots of Indian percussion with dholak rhythms and patterns.",
+      "price": 2699,
+      "instructor": "Lakshman Rao",
+      "isFeatured": true,
+      "image": "/images/dholak.jpg"
+    },
+    {
+      "id": 9,
+      "title": "Sitar & Raaga Exploration",
+      "slug": "sitar-raaga-exploration",
+      "description": "Learn the divine art of sitar playing and explore key Indian raagas.",
+      "price": 5999,
+      "instructor": "Aparna Mishra",
+      "isFeatured": false,
+      "image": "/images/guitar.jpg"
+    },
+    {
+      "id": 10,
+      "title": "Bhajan & Devotional Singing",
+      "slug": "bhajan-devotional-singing",
+      "description": "Sing devotional bhajans and spiritual music with heart and soul.",
+      "price": 1999,
+      "instructor": "Mohan Verma",
+      "isFeatured": true,
+      "image": "/images/vocal-beginner.jpg"
+    }
+  ]
+}
